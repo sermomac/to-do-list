@@ -43,10 +43,3 @@ Check your versions:
 ```bash
 node --version
 npm --version
-
-
-<img width="400" height="400" alt="Screenshot 2026-10-08 at 12 01 00 pm" src="https://github.com/user-attachments/assets/a9ffd5bb-be35-4d0e-be2a-9aee2f040e22" />
-
-<img width="1676" height="931" alt="Screenshot 2026-10-08 at 12 00 45 pm" src="https://github.com/user-attachments/assets/b1893521-7141-40e2-9025-b349d4196ace" />
-
-<img width="1676" height="931" alt="Screenshot 2026-10-08 at 12 00 39 pm" src="https://github.com/user-attachments/assets/cb0126b3-ad5b-4dad-9813-16c96fe633b9" />
